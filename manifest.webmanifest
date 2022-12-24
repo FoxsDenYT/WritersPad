@@ -4,7 +4,7 @@
     "background_color": "#000000",
     "display": "standalone",
     "scope": "/WritersPad/",
-    "start_url": "/",
+    "start_url": "/WritersPad/",
     "name": "WritersPad",
     "short_name": "WritersPad",
     "description": "WritersPad  - Smash that writers block",
