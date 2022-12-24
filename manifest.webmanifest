@@ -2,7 +2,7 @@
     "theme_color": "#000000",
     "background_color": "#000000",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/WritersPad/",
     "start_url": "/",
     "name": "WritersPad",
     "short_name": "WritersPad",
