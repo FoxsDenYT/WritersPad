@@ -1,0 +1,3 @@
+# WritersPad
+*A writing app for those who get distracted...*
+Like myself...
